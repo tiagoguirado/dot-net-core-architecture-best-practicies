@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.src.Core.TicketManagement.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicketManagement.Domain/Commom/AuditableEntity.cs">
+    <Files>
+      <File FileName="TicketManagement.Domain/Entities/Category.cs" Line="7" Column="26" />
+      <File FileName="TicketManagement.Domain/Entities/Event.cs" Line="16" Column="22" />
+      <File FileName="TicketManagement.Domain/Entities/Order.cs" Line="11" Column="50" />
+      <File FileName="TicketManagement.Domain/Commom/AuditableEntity.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicketManagement" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="TicketManagement.Domain" expanded="True">
+                  <Node name="Commom" expanded="True">
+                    <Node name="AuditableEntity.cs" selected="True" />
+                  </Node>
+                  <Node name="Entities" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
