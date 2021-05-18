@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/TicketManagement.Domain.csproj",
+      "projectUniqueName": "/Users/tiago.guirado/Projects/private/TicketManagement/src/Core/TicketManagement.Domain/TicketManagement.Domain.csproj",
       "projectName": "TicketManagement.Domain",
-      "projectPath": "/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/TicketManagement.Domain.csproj",
+      "projectPath": "/Users/tiago.guirado/Projects/private/TicketManagement/src/Core/TicketManagement.Domain/TicketManagement.Domain.csproj",
       "packagesPath": "/Users/tiago.guirado/.nuget/packages/",
-      "outputPath": "/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/obj/",
+      "outputPath": "/Users/tiago.guirado/Projects/private/TicketManagement/src/Core/TicketManagement.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tiago.guirado/.config/NuGet/NuGet.Config"

@@ -1,9 +1,0 @@
-/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/bin/Debug/netstandard2.1/TicketManagement.Domain.deps.json
-/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/bin/Debug/netstandard2.1/TicketManagement.Domain.dll
-/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/bin/Debug/netstandard2.1/TicketManagement.Domain.pdb
-/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/obj/Debug/netstandard2.1/TicketManagement.Domain.csprojAssemblyReference.cache
-/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/obj/Debug/netstandard2.1/TicketManagement.Domain.AssemblyInfoInputs.cache
-/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/obj/Debug/netstandard2.1/TicketManagement.Domain.AssemblyInfo.cs
-/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/obj/Debug/netstandard2.1/TicketManagement.Domain.csproj.CoreCompileInputs.cache
-/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/obj/Debug/netstandard2.1/TicketManagement.Domain.dll
-/Users/tiago.guirado/Projects/private/TicketManagement/TicketManagement.Domain/obj/Debug/netstandard2.1/TicketManagement.Domain.pdb
